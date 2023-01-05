@@ -1,1 +1,2 @@
-Cinephile App (Movie Review)
+Cinephile App
+adalah applikasi berbasis web yang memiliki berbagai fitur untuk mereview berbagai genre film yang tayang di bioskop-bioskop dari berbagai tahun.
